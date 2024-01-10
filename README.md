@@ -1,2 +1,2 @@
-# dust app
+# fe app
 sandbox for fe animation

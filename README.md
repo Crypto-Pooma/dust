@@ -1,2 +1,2 @@
-# fe app
-sandbox for fe animation
+# dust app
+sandbox for fe animation and centering markup

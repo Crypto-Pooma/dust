@@ -1,1 +1,1 @@
-# dust app
+# dust application
